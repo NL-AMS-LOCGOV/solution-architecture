@@ -1,2 +1,1 @@
-# solution-architecture
-The solution architecture can be found in the Wiki pages of this repository.
+<h2>The solution architecture is described in the <a href="https://github.com/NL-AMS-LOCGOV/solution-architecture/wiki">Wiki pages</a> of this repository.</h2>
